@@ -1,0 +1,11 @@
+order_id,order_date,product,category,city,sales_channel,quantity,unit_price,discount_pct,revenue,cost
+ORD1001,2025-01-05,Laptop,Electronics,Hyderabad,Online,2,65000,0.05,123500,101400
+ORD1002,2025-01-08,Mobile,Electronics,Chennai,Store,3,20000,0.10,54000,49200
+ORD1003,2025-01-12,Shoes,Fashion,Hyderabad,Online,4,2500,0.05,9500,5000
+ORD1004,2025-02-02,Watch,Fashion,Bangalore,Store,2,3000,0.00,6000,3720
+ORD1005,2025-02-15,Tablet,Electronics,Chennai,Online,1,25000,0.10,22500,20000
+ORD1006,2025-03-01,Laptop,Electronics,Mumbai,Marketplace,1,65000,0.05,61750,50700
+ORD1007,2025-03-10,Mobile,Electronics,Hyderabad,Online,2,20000,0.00,40000,32800
+ORD1008,2025-03-18,Headphones,Accessories,Pune,Store,5,3500,0.10,15750,9625
+ORD1009,2025-04-05,Monitor,Electronics,Delhi,Online,2,14000,0.05,26600,19600
+ORD1010,2025-04-15,Keyboard,Accessories,Hyderabad,Store,3,1800,0.00,5400,2430
